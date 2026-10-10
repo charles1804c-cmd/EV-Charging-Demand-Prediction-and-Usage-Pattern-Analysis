@@ -77,7 +77,7 @@ with tabs[0]:
     c3.metric("Avg duration (min)", f"{fdf['Duration'].mean():.1f}")
     c4.metric("Unique users", f"{fdf['UserID'].nunique():,}")
     c5.metric("Unique chargers", f"{fdf['ChargerID'].nunique():,}")
-    st.dataframe(fdf.describe(numeric_only=True))
+    st.dataframe(fdf.select_dtypes(include="number").describe())
 
 # 2. Usage Patterns
 with tabs[1]:
