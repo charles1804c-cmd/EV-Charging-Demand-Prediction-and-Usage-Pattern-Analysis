@@ -1,0 +1,34 @@
+,0
+ChargerType_0,0.47941235
+ChargerType_1,0.11539171
+Duration,0.10128194
+user_past_avg_demand,0.05034637
+ChargerCompany_1,0.048422042
+ChargerCompany_0,0.031771276
+Location_grouped_other_rare,0.01807177
+charger_past_avg_demand,0.011023332
+time_of_day_night,0.01030058
+Location_grouped_camping,0.008128289
+Location_grouped_company,0.007793433
+hour,0.007753747
+UserID,0.0077289785
+ChargerID,0.0071624056
+Location_grouped_apartment,0.0068925857
+Location_grouped_public area,0.00661048
+Location_grouped_restaurant,0.0064303866
+Location_grouped_market,0.0063463626
+Location_grouped_hotel,0.0061019626
+user_session_count,0.0060693147
+Location_grouped_public institution,0.0059342342
+Location_grouped_resort,0.005518462
+time_of_day_evening,0.0055114264
+time_of_day_morning,0.0053534703
+Location_grouped_golf,0.00526996
+month,0.004687248
+charger_session_count,0.004512377
+Location_grouped_public parking lot,0.004022632
+Location_grouped_sightseeing,0.0039369483
+time_of_day_afternoon,0.0038387787
+day,0.0029446064
+day_of_week,0.0029314014
+is_weekend,0.0024991476

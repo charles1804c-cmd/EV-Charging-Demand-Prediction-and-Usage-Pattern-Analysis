@@ -1,0 +1,34 @@
+,0
+Duration,2979
+UserID,2267
+ChargerID,2193
+user_past_avg_demand,1832
+charger_past_avg_demand,1779
+user_session_count,1543
+charger_session_count,1303
+hour,1018
+day,717
+month,602
+day_of_week,365
+ChargerType_0,252
+Location_grouped_public area,222
+Location_grouped_apartment,213
+Location_grouped_market,163
+Location_grouped_public institution,163
+ChargerCompany_0,122
+Location_grouped_hotel,105
+time_of_day_afternoon,85
+Location_grouped_company,79
+time_of_day_evening,79
+Location_grouped_restaurant,69
+Location_grouped_public parking lot,68
+ChargerType_1,58
+Location_grouped_resort,51
+time_of_day_morning,49
+Location_grouped_camping,45
+time_of_day_night,43
+Location_grouped_golf,41
+ChargerCompany_1,32
+Location_grouped_other_rare,31
+Location_grouped_sightseeing,22
+is_weekend,10
