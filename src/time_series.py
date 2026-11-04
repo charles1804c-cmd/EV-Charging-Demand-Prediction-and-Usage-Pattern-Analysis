@@ -1,4 +1,4 @@
-"""Phase 6 — Time series: future charging demand forecasting.
+"""Step 6 — Time series: future charging demand forecasting.
 
 Aggregates Demand by hour and by day, tests stationarity (ADF),
 forecasts with Moving Average and Exponential Smoothing (Holt-Winters),
