@@ -1,4 +1,4 @@
-"""Phase 7 — Model explainability with SHAP and LIME.
+"""Step 7 — Model explainability with SHAP and LIME.
 
 SHAP global summary + one local explanation for the best regressor
 (LightGBM) and best classifier (XGBoost); LIME as a secondary
