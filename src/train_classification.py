@@ -1,4 +1,4 @@
-"""Phase 5 — Classification: high-demand session prediction.
+"""Step 5 — Classification: high-demand session prediction.
 
 Target rule (exact, from brief):
     High Demand   = Demand >= median(Demand_train)
