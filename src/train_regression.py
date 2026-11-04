@@ -1,4 +1,4 @@
-"""Phase 4 — Regression: charging demand prediction.
+"""Step 4 — Regression: charging demand prediction.
 
 Compares Linear Regression, Decision Tree, Random Forest, Gradient
 Boosting, XGBoost, LightGBM on the time-aware split. Metrics MAE/MSE/
