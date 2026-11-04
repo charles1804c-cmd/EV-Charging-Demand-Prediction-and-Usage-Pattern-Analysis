@@ -1,4 +1,4 @@
-"""Phase 3 — Feature Engineering (leakage-safe, time-aware).
+"""Step 3 — Feature Engineering (leakage-safe, time-aware).
 
 Builds time features, grouped categoricals, historical usage features
 using only past information, one-hot encoding fitted on TRAIN only,
