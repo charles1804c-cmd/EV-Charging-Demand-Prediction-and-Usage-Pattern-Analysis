@@ -1,4 +1,4 @@
-"""Phase 1 — Data Understanding & Cleaning.
+"""Step 1 — Data Understanding & Cleaning.
 
 Loads data/raw/ChargingRecords.csv, profiles every column,
 handles the known quality issues (13 exact duplicates, 17 negative
